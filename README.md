@@ -22,14 +22,16 @@ Além da temperatura, a ausência de umidade pode resultar na secagem do vedante
 # Link do CP 🔗
 https://wokwi.com/projects/396159048683156481
 #  Componentes 🧠
-1 arduino;
-3 resistores;
-1 led vermelho;
-1 led verde;
-1 led amarelo;
-1 buzzer;
-1 Sensor digital de umidade e temperatura;
-1 Módulo sensor fotoresistor;
+|   Componente  |  Quantidade   |
+| ------------- | ------------- |
+|   arduino     |   1           |
+|      resistores        | 3 |
+|      led vermelho        | 1  |
+|      led verde        | 1  |
+|      led amarelo        | 1  |
+|      buzzer        | 1  |
+|      Sensor digital de umidade e temperatura(DHT11)       |1 |
+|      Módulo sensor fotoresistor        | 1 |
 1 Um LCD com 2 linhas, 16 caracteres por linha;
 ![image](https://github.com/Guig3003/CP2-Edge/assets/92872071/335c6860-7a98-4bfd-b77e-9ad9aae0a254)
 # Empresa 💎 
